@@ -1,4 +1,5 @@
-# analisisData
+# Data Analysis Dashboard: Bike Sharing
+## analisisData
 pip install numpy pandas scipy matplotlib seaborn streamlit babel
-# Run streamlit app
+## Run streamlit app
 streamlit run dashboard.py
